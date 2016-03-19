@@ -1,0 +1,144 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kalpnil.ksinfotech.tsec.tsec.ContactUs">
+
+    <include
+        android:id="@+id/app_bar"
+        layout="@layout/app_bar"></include>
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/app_bar"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="10dp"
+                android:text="@string/mp"
+                android:textColor="@android:color/black"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/post"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/name"
+                android:paddingLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:textSize="12dp"
+                android:text="@string/posts"
+                android:textColor="@android:color/black"/>
+            <TextView
+                android:id="@+id/ph1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:layout_below="@+id/post"
+                android:text="@string/ph1"
+                android:textSize="14dp"
+                android:textColor="@android:color/black"/>
+            <TextView
+                android:id="@+id/em1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_below="@+id/ph1"
+                android:text="@string/em1"
+                android:textSize="14dp"
+                android:textColor="#0097FF"/>
+
+    <View
+        android:id="@+id/SplitLine_hor1"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/em1"
+        android:layout_height= "2dp"
+        android:background="#949191" />
+
+            <TextView
+                android:id="@+id/name1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/SplitLine_hor1"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="10dp"
+                android:text="@string/ak"
+                android:textColor="@android:color/black"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/post1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/name1"
+                android:paddingLeft="10dp"
+                android:textSize="12dp"
+                android:text="@string/posts"
+                android:textColor="@android:color/black"/>
+            <TextView
+                android:id="@+id/ph2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:layout_below="@+id/post1"
+                android:text="@string/ph2"
+                android:textSize="14dp"
+                android:textColor="@android:color/black"/>
+
+            <TextView
+                android:id="@+id/em2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_below="@+id/ph2"
+                android:text="@string/em2"
+                android:textSize="14dp"
+                android:textColor="#0097FF"/>
+
+    <View
+        android:id="@+id/SplitLine_hor2"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/em2"
+        android:layout_height= "2dp"
+        android:background="#949191" />
+
+    <TextView
+        android:id="@+id/webnew"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:layout_below="@+id/SplitLine_hor2"
+        android:textSize="25dp"
+        android:textColor="#0097FF"/>
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+       android:layout_marginLeft="130dp"
+        android:layout_below="@id/webnew"
+        android:id="@+id/fb"/>
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/webnew"
+        android:layout_marginLeft="15dp"
+        android:layout_toRightOf="@+id/fb"
+        android:id="@+id/tt1"/>
+
+    <TextView
+        android:id="@+id/deve"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/fb"
+        android:text="@string/develop"
+        android:textSize="10dp"
+        android:textColor="@android:color/black"/>
+</RelativeLayout>

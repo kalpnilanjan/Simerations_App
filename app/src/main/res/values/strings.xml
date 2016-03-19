@@ -1,0 +1,441 @@
+<resources>
+    <string name="app_name">Simerations</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="faculty_label">Select Department:</string>
+    <string name="select">Choose an object</string>
+    <string name="candy">Points Table</string>
+    <string name="develop">DEVELOPED BY: TEAM REACK</string>
+
+    <!--CONTACT US -->
+    <string name="mp">Megha Patel</string>
+    <string name="ak">Aneev Kothari</string>
+    <string name="posts">Co-ordinator
+\nTeam Simerations
+\nEvents Committee 2015-16
+\nSIMSREE
+</string>
+
+    <string name="webid"><b><i><u>VISIT OUR WEBSITE</u></i></b></string>
+
+    <string name="ph1">+91 9833430628</string>
+    <string name="ph2">+91 9322872104</string>
+    <string name="em1"><u><i>megha.patel@simsree.net</i></u></string>
+    <string name="em2"><u><i>aneev.kothari@simsree.net</i></u></string>
+
+
+    <string name="register"><u><i>REGISTER NOW</i></u></string>
+
+    <string name="aboutus">Developed By:\nKALPNIL ANJAN</string>
+    <string name="post">CHIEF TECHNICAL HEAD(SOFTWARE)</string>
+    <string name="csi">CSI-TSEC</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+
+    <!--EVENTS -->
+
+    <string name="bbt">
+Gear up for the crazy screaming and jumping to the rocking tunes of music as Simerations\'15 presents you it\'s one of the most astonishing event.
+\nThe best talents across will rock the stage by throwing in their eclectic musical tones enough to create stir around and compete strongly to conquer \"The Battle of bands"\
+\n\n<b>
+\nRegistration fees: Rs. 500/- per team
+\nPrizes worth: Rs. 30,000/-
+\nContact
+\nMandar Joshi : +91 9769415064
+\nMihir Gharat : +91 8097385844 </b>
+</string>
+
+
+    <string name="sd">
+\nWe invite you to put on your dancing shoes and participate at Simerations\'15, a chance to compete at this year\'s Street Dance Competition!
+        \nCrews will not want to miss this competition floor!
+\n\n<b>No. of participants: Group of 4 (Minimum)
+\nPrizes worth: Rs. 25,000/-
+\nContact
+\nTejal Bamble : +91 9004040295
+\nAnkita Solanki : +91 9819700421</b>
+</string>
+
+
+ <string name="lwd">
+\nWe at Simerations\'15 provide you an opportunity to set the fashion ramp on fire.
+     \nGrab this opportunity and steal the show with your beauty, glamour, style and elegance.
+     \nThe stage is set and the spotlights are on.
+     \nFlaunt the stage with pride and bring out the fashionista in you.
+     \nGet ready for a display of innovative designs.
+     \nRedefine the trends your way and bask in your new-found glory.
+\n<b>Guest Celebrity:</b> Kalyani Desai (Styled Sushant Singh Rajput, Been a Stylist with GQ Magazine)
+\n\n<b>
+\nNo. of participants: Group of 4 - 10
+\nPrizes Worth: Rs. 25,000/-
+\nContact
+\nDipinder Kaur : +91 9960994136
+\nTejesh Tandel : +91 9870022651</b>
+</string>
+
+    <string name="wod">
+ \nDJ battlefield for all you budding DJs, here\'s a platform to showcase your talent.
+        \nThe wires attached, the speakers come on, people move to the sound of songs.
+        \nThe time has once again arrived, where soldiers of sound, all trained in the art, fight in the arena with spectators.
+        \nFor, once the headphones are on and the cables plugged in, the clarion call is sounded, and the games begin.
+    \n\n<b>No. of participants: Individual
+\nPrizes worth: Rs. 20,000/-
+\nContact
+\nGaurav Lamba : +91 8600773640
+\nTejesh Tandel : +91 9870022651</b>
+</string>
+
+    <string-array name="cultural_array">
+        <item>Big Band Theory</item>
+        <item>Lights! Walk! Dazzle!</item>
+        <item>Street Dance </item>
+        <item>War of DJs</item>
+    </string-array>
+
+    <string-array name="general_array">
+        <item>Guts Factory</item>
+        <item>Picturesque</item>
+        <item>Colossal Conquest</item>
+        <item>Jive Workshop</item>
+        <item>Paintball</item>
+        <item>LAN gaming</item>
+    </string-array>
+
+    <string-array name="literary_array">
+        <item>B-Quiz</item>
+        <item>SIMSREE UN-ified</item>
+    </string-array>
+
+    <string-array name="sports_array">
+        <item>Stumped</item>
+        <item>Pumped Up Kicks</item>
+        <item>UV TT</item>
+        <item>64 Squares</item>
+        <item>BucketBall</item>
+    </string-array>
+
+    <string-array name="management_array">
+        <item>Bulls  N Bears</item>
+        <item>Whiplash</item>
+        <item>Convergence \'‘15</item>
+        <item>Finomania</item>
+        <item>Last Manager Standing</item>
+        <item>Bizbash</item>
+        <item>Crack D Bridge </item>
+        <item>Ad Mad Show</item>
+    </string-array>
+
+    <!--MANAGEMENT-->
+    <string name="bnb">
+        \nEveryone has the brain power to follow the stock market.
+        \nIf you made it through fifth grade math, you can do it.
+\n-Peter Lynch
+
+\nDo you think you are smarter than a fifth grader?
+        \nBecause if so, Mr. Lynch believes you have the potential to make it big in the stock market.
+        \nSo gear up for a rapid and exciting round of virtual trading at SIMSREE.
+        \n\n<b>No. of participants: Group of 3
+\nPrizes worth: Rs. 25,000/-
+\nContact
+\nKaushtubh Arwari: +91 9757139091
+\nRushabh Borkar: +91 8097805405</b>
+</string>
+
+
+    <string name="whp">
+        \nIt is a supply chain simulation game in which teams will have to meet the customer demand for cases of beer through a multi stage supply chain and tackle increasing expenditure of back orders and inventory.
+        \nIt lets the participants experience typical supply chain problems of coordination and collaboration without any direct communication between supply chain intermediaries.
+        \nThe result yields typical magnifying waveforms when a bull-whip is excited.
+        \nSo teams better bring their A- game or get WHIPLASHED!!!
+\n\n<b>No. of participants: Group of 4
+\nPrizes worth: Rs. 25,000/-
+\nContact
+\nRajat Wankhade: +91 9096060090
+\nPrasann Saxena: +91 8080341409</b>
+</string>
+
+<string name="lms">
+    \nThe business world today is no less than an epic battleground, with twists and turns of all kinds.
+    \nIt requires a leader who cannot just lead but also take on the competitive and technological challenges on the way.
+    \nThe only trick is to change with the changing ways. No matter how high in hierarchy you stand, the ultimate leader is one who accepts the changes that time has on offer.
+    \nVision, Innovation, Fearlessness.
+    \nThe battle has begun.
+\n\n<b>No. of participants: Individual.
+\nPrizes: Rs. 25,000/-
+\n\nContact
+\nNimit Minda: +91 9773384414
+\nAditi Sathe: +91 9921135265</b>
+    </string>
+
+
+<string name="conv">
+    \nDo you have what it takes to be the Top Consultant?
+    \nPut on consultant\'s hat and see the world through consultant\'s eyes.
+    \nIt\'s time to prove your problem solving abilities.
+    \nSo, are you ready for the ultimate challenge?
+\nWe are proud to present \"Convergence"\ - a case study competition in association with MyMBALab (a BizResearchLabs venture) focusing on a business problem that will test your consulting acumen.
+\n\n<b>No. of participants: Individual or Group of 2 (max)
+\nPrizes worth: Rs. 25,000/-
+\n\nContact
+\nDeepesh Jethwani: +91 9686744142
+\nSanandan Deshpande: +91 9049288145 </b>
+</string>
+
+
+<string name="fin">
+    \nThe teams have to come up with a new and innovative financial product or re-packaging of the existing product and analyze the risk and returns of the portfolio using different parameters.
+    \nThe existing vanilla products are slowly losing their relevance to protect the investors\’ capital while promising substantially significant returns; it opens up a new market for structured products.
+    \nThe participants will be asked to develop a structured product which is a pre-packaged investment strategy based on derivatives, indices, commodities, debt issuance, foreign currencies, swaps etc.
+\n\nSo, this is the opportunity for you to bring your learning to practical use and develop a financial product which has potential to make revolutionary change in the market.
+\n\n<b>No. of participants: Group of 2
+\nPrizes worth: Rs. 20,000/-
+\n\nContact
+\nShruti Birari : +91 9819987599
+\nRohin Jacob: +91 9769473298</b>
+</string>
+
+
+<string name="biz">\nBizBash is a national level competition consisting of various rounds to test the students on their marketing knowledge, social media skills and the ability to promote brands.
+\n Conducted every year, our event has seen active participation from the top management schools and we hope to see the same this year.
+\n Apart from meeting esteemed judges and presenting your skills to them, BizBash gives you an opportunity to win many awards from cash prizes to internships.
+\n Stay tuned for details about the competition!
+\n\n<b>No. of participants: Group of 2
+\nPrizes worth: Rs. 25,000/-
+\n\nContact
+\nAlamelu Aiyer +91 7506190591</b>
+</string>
+
+<string name="cdb">
+\nCome experience the tense minutes of a business quiz; survive to live through the intense competition with multiple rounds requiring you to flex your brain muscles.
+    \nCome take part in a brand new take on the simple quiz.
+\nDo you think you have it in you?
+    \nWe the E-Cell Committee of Sydenham Institute of Management Studies, Research &amp; Entrepreneurship Education (SIMSREE) present you Crack D Bridge, which, we promise, will take your emotions on a roller coaster ride!!!
+ \n\n<b>No. of participants: Group of 2
+\nPrizes worth: Rs. 20,000/-
+\n\nContact
+\nDeepali Gaikwad : +91 9699747285
+\nDhanashree Jamkar : +91 9890038287</b>
+</string>
+
+        <string name="ams">
+       \nIts time to start getting innovative and design some classy advertisements for our event partner Recron Certified!
+        \nRecron Certified Products is India\'s leading range of home comfort products like pillows, quilts, blankets, cushions, bolsters, etc.
+\nIt is an Ad making competition where participants will be tested on the points of brand awareness, creativity and innovation.
+        \nLots of goodies and amazing prizes to be won.
+        \nSo put your creative hats on and get cracking!
+        \nShowcase your skills on the Ad Mad show!!
+\n\n<b>Team Size: 3 members
+\nPrizes worth: Rs. 20,000/-
+\nContact:
+\nAditi Sathe: +91 9921135265
+\nMegha Patel: +91 9833430628</b>
+</string>
+
+
+    <string name="title_activity_cultural">Cultural</string>
+    <string name="title_activity_cultural_detail">Event Details</string>
+    <string name="title_activity_management">Management</string>
+    <string name="title_activity_management_detail">Event Details</string>
+    <string name="title_activity_sports">Sports</string>
+    <string name="title_activity_sports_detail">Event Details</string>
+    <string name="title_activity_literary">Literary</string>
+    <string name="title_activity_literary_detail">Event Details</string>
+    <string name="title_activity_general">General</string>
+    <string name="title_activity_general_detail">Event Details</string>
+
+<!--GENERAL-->
+
+
+<string name="gf">
+    \nSo if you\'ve ever dreamt of yourself as a Roadie and thought \"Had I been there then I\'d have done it differently"\, then pull up your socks and step out as Simerations\'15 brings to you its own hunt for the Roadies.
+    \nGet a chance to test yourself in the most exciting and adventurous event and prepare yourself to say \"Yes, I am a ROADIE"\.
+    \nSo ask yourself whether you really want to know if you have it in you, then SIMSREE Roadies is where we shall be expecting to meet you.
+\n<b>Guest Celebrity:</b> Archis Patel (Ex-Roadie)
+\n\n<b>No. of participants:  Individual Entry
+\nPrizes : Worth 5000/-
+\n\nContact
+\nAnkush Bansal : +91 9987495422
+\nAnkita Solanki : +91 9819700421</b>
+</string>
+
+
+    <string name="picturesque">
+        \nA photography contest to showcase your photographic skills.
+        \nA platform toshowcase your creative emotions through your pictures.
+        \nThe pictures have to be according to the theme of Simerations.
+\n\n<b>No. of participants: Single entry
+\n Prizes worth: Rs. 5,000/-
+\nContact:
+\nRajat Wankahde: +91 9096060090
+\nBharat Sonawane +91 9664032534</b>
+</string>
+
+
+    <string name="cc">\nFollow the word trail.
+        \nOur treasure hunts are information-based scavenger hunts, or puzzle hunts, in which teams use their collective brainpower to solve clues.
+        \nEach team is presented with a group of puzzles, or clues, which teams must solve in order to find a piece of information.
+        \nThe hunt challenges your ability to see and notice things that we all might normally just overlook in our busy lives.
+        \nTake time to appreciate some of these things that are hidden in plain sight.
+\n\n<b>No. of participants: 3 per team
+\nPrizes: Worth Rs. 6,000/-
+\n\nContact
+\nHeena Narang : +91 9820811810
+\nHarish Kendre : +91 9579347197 </b>
+</string>
+
+
+    <string name="jive">
+\nWant to groove to the music at 176 beats per minute like the Latin Americans in the 30\'s.
+\nThen let go of your inhibitions and release the "Jitterbug" inside you and head over to SIMSREE campus where we give you a opportunity to discover the swinger in you.
+\n\n<b>Team Size:  2 members (Couple entries, Stags not allowed)
+\nRegistration Fees: Rs. 50/- per couple
+\n\nContact
+\nAnkita Solanki : +91 9819700421
+\nPreshita Lasure : +91 9403950065</b>
+</string>
+
+
+    <string name="paintball">
+        \nEver held that grudge against someone where you could just shoot them in the face.
+        \nWell that’s illegal  but you could now legally shoot someone at SIMSREE  because we are introducing Paintball at the college campus.
+        \nSo come along with your friends and you can get that satisfaction of killing them!
+        \nWell not exactly but you get the idea.
+    \n\n<b>Entry: Rs 150 per person
+    \nContact
+    \nHarish Kendre: +91 9579347197</b>
+    </string>
+
+        <string name="lan">
+        \nEveryone has grown up playing the popular video games of Mario, Contra and Road rash.
+        \nTimes have changed and the technology has evolved but the thrills and excitement of video gaming remain the same.
+        \nCome join us for the exciting games on LAN gaming and unleash the child inside you!!
+\n\n<b>Registration fee: 100 per team
+\nTeam Size : 5 member
+\nPrizes worth : Rs. 5,000/-
+\nContact: Kaustubh Arwari: +91 9757139091</b>
+</string>
+
+
+    <!--LITERARY-->
+
+    <string name="bq">
+        \nQuenching people\'s thirst for quizzing is not an easy task by any means but we at Sydenham Institute of Management (SIMSREE) are here to just do that.
+        \nWe are proud to host \"B-Quiz 2015\" - An inter category quiz event for Management students and corporate executives all across the nation which tries to bring the best of the quizzing minds.
+        \nThe preliminary round and the grand finale will have a mix of both business questions.
+        \nWe invite you to participate as teams of 2, to awaken the genius in you and, in the journey, experience the primacy of your grey matter.
+    \n\n<b>Contact:
+    \nNimit Minda: +91 9773384414</b>
+    </string>
+
+
+    <string name="un">\nModel United Nations, also known as Model UN or MUN, is an educational simulation and academic competition in which students learn about diplomacy, international relations, and the United Nations.
+        \nParticipants in Model UN conferences, referred to as delegates, are placed in committees of the United Nations and assigned particular countries for each participant.
+        \nThey are presented with their assignments in advance, along with a topic or topics that their committee will discuss.
+        \nDelegates conduct research before conferences and formulate positions that they will then debate with their fellow delegates in committee.
+        \nAt the end of a conference, the best-performing delegates in each committee are sometimes recognized with awards.
+\n\n<b>Team Size:Group of 2
+\nContact:
+\nPrathamesh Parle: +91 8082676971</b>
+</string>
+
+
+<!--SPORTS-->
+
+    <string name="stumped">
+      \nNot enough space, not enough time but love playing Cricket???
+        \nThis is the chance to bring on your A-Game and battle through the tricks and twists of Box Cricket.
+        \nA tricky fast-paced game with one ultimate motive: WIN!!!
+\n\n<b>No. of participants: 4 Boys + 1 girl (Compulsory)
+\nRegistration fees: Rs 100/- per team
+\nPrizes worth: Rs. 10,000/-
+\n\nContact
+\nGaurav Lamba : +91 8600773640
+\nHarish Kendre : +91 9579347197</b>
+</string>
+
+
+
+    <string name="kicks">
+        \nFancy yourself to be the next Rhonaldinho?
+        \nThink you have what it takes to be the ont true artist of the beautiful game?
+        \nGather your squad and head over to SIMERATIONS to battle it out against in the indoor format of the most popular game of the world.
+\nVenue: Cooperage Football Ground,
+\nMaharshi Karve Road,
+\nChurchgate,
+Mumbai, Maharashtra 400021
+\n\n<b>No. of participants: Group of 6 + 1
+\nRegistration Fees: Rs. 500/- per team
+\n\n Contact
+\nMandar Joshi : +91 9769415064
+\nTejesh Tandel : +91 9870022651</b>
+</string>
+
+
+    <string name="sas">
+        \nEnter the room that blinds you, Survive with the instincts that guides you!
+\nGet the balance right between the ping and the pong!!!
+        \nSmash, Spin and Chop to dazzle your opponent and leave them gasping for air.
+        \nWinning mantra- Keep the ball in the opponents court and you will walk away to victory!!!
+\n\n<b>No. of participants: Individual
+\nRegistration fees: Rs. 50/-
+\nPrizes worth: Rs. 8,000/-
+\n\nContact
+\nMihir Gharat : +91 8097385844
+\nDipinder Kaur : +91 9960994136</b>
+</string>
+
+
+    <string name="sfs">
+\nBusiness is about staying a step ahead of your competitors and so is the game of chess.
+        \nMake your opponent dance on your moves till you shout \"Check-mate"\.
+        \nBut don\'t forget to protect your own kingdom while in the quest of acquiring your opponent\'s empire.
+\n\n<b>
+\nNo. of participants: 2 (Boy/girl)
+\nRegistration fees:Rs 40/- per team
+\nPrizes worth : Rs. 8,000/-
+\n\nContact
+\nAnkita Solanki : +91 9819700421
+\nHeena Narang : +91 9820811810</b>
+</string>
+
+
+
+    <string name="bucket">
+        \nSlam Dunk and Hook.\nAs you\'ll play in your little world, Nothing can bring you\'ll down.
+\n\n<b>Number of Participants: 2 Boys + 2 Girls
+\nRegistration Fees: Rs 80/- per team
+\nPrizes: worth Rs. 8000/-
+\n\nContact
+\nAnkush Bansal : +91 9987495422
+\nTejal Bamble : +91 9004040295</b>
+</string>
+
+
+
+
+
+    <string name="title_activity_sponsors">Sponsors</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="title_activity_trial">Trial</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_hangout_map">HangoutMap</string>
+    <string name="title_activity_hangout_maps">Map</string>
+    <string name="title_activity_view_papers">ViewPapers</string>
+    <string name="title_activity_question_paper_trial">Question Papers</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_new_maps">Map</string>
+    <string name="title_activity_maps_activity11">Map</string>
+    <string name="title_activity_maps_activitynew">Map</string>
+    <string name="title_activity_map_locator">Hangouts</string>
+    <string name="title_activity_contact_us">Contact Us</string>
+    <string name="title_activity_schedule">Schedule</string>
+
+</resources>

@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kalpnil.ksinfotech.tsec.tsec.SportsDetail">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <include
+                android:id="@+id/app_bar"
+                layout="@layout/app_bar"></include>
+
+            <ImageView
+                android:id="@+id/img_desc"
+                android:layout_width="fill_parent"
+                android:layout_height="170dp"
+                android:layout_below="@id/app_bar" />
+
+            <TextView
+                android:id="@+id/textdesc"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/img_desc"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/reg"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_below="@id/textdesc"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:textColor="#536DFE"
+                android:textSize="30dp" />
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>
